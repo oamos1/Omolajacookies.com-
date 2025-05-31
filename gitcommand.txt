@@ -1,0 +1,626 @@
+    1  5/22/2025 14:15  ls
+    2  5/22/2025 14:15  pwd
+    3  5/22/2025 14:15  sudo reboot
+    4  5/22/2025 14:15  brew update 
+    5  5/22/2025 14:15  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    6  5/22/2025 14:15  echo >> /Users/moon/.zprofile && echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/moon/.zprofile && eval "$(/opt/homebrew/bin/brew shellenv)"
+    7  5/22/2025 14:15  brew --version
+    8  5/22/2025 14:15  bew update && brew upgrade
+    9  5/22/2025 14:15  brew update && brew upgrade
+   10  5/22/2025 14:15  clear
+   11  5/22/2025 14:15  ls
+   12  5/22/2025 14:15  pwd
+   13  5/22/2025 14:15  cd ~/Desktop/
+   14  5/22/2025 14:15  ls
+   15  5/22/2025 14:15  ls -l
+   16  5/22/2025 14:15  ls -al
+   17  5/22/2025 14:15  ifconfig
+   18  5/22/2025 14:15  ifconfig
+   19  5/22/2025 14:15  ifconfig /dnsflush
+   20  5/22/2025 14:15  ifconfig /flushdns
+   21  5/22/2025 14:15  ifconfig -flushcache
+   22  5/22/2025 14:15  sudo dscacheutil -flushcache
+   23  5/22/2025 14:15  brew install vscode
+   24  5/22/2025 14:15  brew install --cask visualcode
+   25  5/22/2025 14:15  brew install visualstudiocode
+   26  5/22/2025 14:15  brew install --cask visual-studio-code
+   27  5/22/2025 14:15  brew install chrome
+   28  5/22/2025 14:15  brew install --cask google-chrome
+   29  5/22/2025 14:15  brew install --cask bitwarden
+   30  5/22/2025 14:15  ls
+   31  5/22/2025 14:15  pwd
+   32  5/22/2025 14:15  whoami
+   33  5/22/2025 14:15  pwd
+   34  5/22/2025 14:15  clear
+   35  5/22/2025 14:15  pwd
+   36  5/22/2025 14:15  clear
+   37  5/22/2025 14:15  whoami
+   38  5/22/2025 14:15  pwd
+   39  5/22/2025 14:15  curl -sS https://starship.rs/install.sh | sh -s -- --bin-dir /data/data/com.termux/files/usr/bin
+   40  5/22/2025 14:15  cd ~/Downloads/
+   41  5/22/2025 14:15  ls
+   42  5/22/2025 14:15  tar -xvf starship-aarch64-apple-darwin.tar.gz 
+   43  5/22/2025 14:15  ls
+   44  5/22/2025 14:15  /Users/moon/Downloads/starship ; exit;
+   45  5/22/2025 14:15  /Users/moon/Downloads/starship ; exit;
+   46  5/22/2025 14:15  nano ~/.zhrc
+   47  5/22/2025 14:15  nano ~/.zshrc
+   48  5/22/2025 14:15  vim ~/.zsh_history 
+   49  5/22/2025 14:15  vim ~/.zshrc.
+   50  5/22/2025 14:15  nano ~/.zshrc.
+   51  5/22/2025 14:15  ls
+   52  5/22/2025 14:15  clear
+   53  5/22/2025 14:15  cd 1
+   54  5/22/2025 14:15  cd ..
+   55  5/22/2025 14:15  ls
+   56  5/22/2025 14:15  cd Documents/
+   57  5/22/2025 14:15  ls
+   58  5/22/2025 14:15  clear
+   59  5/22/2025 14:15  cd ..
+   60  5/22/2025 14:15  ls
+   61  5/22/2025 14:15  curl -sS https://starship.rs/install.sh | sh
+   62  5/22/2025 14:15  vim .zshrc
+   63  5/22/2025 14:15  sudo zsh
+   64  5/22/2025 14:15  ls
+   65  5/22/2025 14:15  vim .zshrc
+   66  5/22/2025 14:15  mkdir ~/.config && touch ~/.config/starship.tom1
+   67  5/22/2025 14:15  mkdir ~/.config && touch ~/.config/starship.toml
+   68  5/22/2025 14:15  cp ~/.config/starship.tom1 ~/.config/starship.toml
+   69  5/22/2025 14:15  vi ~/.config/starship.toml
+   70  5/22/2025 14:15  ls
+   71  5/22/2025 14:15  vim ~/.zshrc
+   72  5/22/2025 14:15  ls
+   73  5/22/2025 14:15  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"\n\n
+   74  5/22/2025 14:15  sudo nano ~/.zshrc
+   75  5/22/2025 14:15  exit
+   76  5/22/2025 14:15  sudo nano ~/.zshrc
+   77  5/22/2025 14:15  exit
+   78  5/22/2025 14:15  ls
+   79  5/22/2025 14:15  cd Downloads/
+   80  5/22/2025 14:15  ls
+   81  5/22/2025 14:15  rm starship-aarch64-apple-darwin.tar.gz 
+   82  5/22/2025 14:15  ls
+   83  5/22/2025 14:15  rm starship 
+   84  5/22/2025 14:15  ls
+   85  5/22/2025 14:15  clear
+   86  5/22/2025 14:15  cd ~/Desktop/
+   87  5/22/2025 14:15  ls
+   88  5/22/2025 14:15  cat Interview_propsecting.txt 
+   89  5/22/2025 14:15  clear
+   90  5/22/2025 14:15  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   91  5/22/2025 14:15  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   92  5/22/2025 14:15  brew install --cask warp
+   93  5/20/2025 02:58  ifconfig -flushcache
+   94  5/20/2025 02:58  ip addr show en0
+   95  5/20/2025 02:59  bash
+   96  5/20/2025 23:30  ls
+   97  5/20/2025 23:30  . opensshinstallscript.sh 
+   98  5/20/2025 23:31  ./opensshinstallscript.sh 
+   99  5/20/2025 23:31  sudo ./opensshinstallscript.sh
+  100  5/20/2025 23:31  chmod +x opensshinstallscript.sh
+  101  5/20/2025 23:31  sudo ./opensshinstallscript.sh
+  102  5/20/2025 23:32  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/uninstall.sh)"
+  103  5/20/2025 23:33  rm -rf /opt/homebrew
+  104  5/20/2025 23:33  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  105  5/20/2025 23:34  brew --version
+  106  5/20/2025 23:34  ls
+  107  5/20/2025 23:34  . opensshinstallscript.sh 
+  108  5/20/2025 23:34  cat opensshinstallscript.sh 
+  109  5/20/2025 23:35  brew install  opensshinstallscript.sh
+  110  5/20/2025 23:35  sudo brew update && sudo brew install openssh-server  && sudo systemctl start ssh && sudo systemctl enable ssh && sudo systemctl status ssh
+  111  5/20/2025 23:37  sudo systemsetup -setremotelogin on\n
+  112  5/20/2025 23:37  sudo systemsetup -getremotelogin\n
+  113  5/20/2025 23:38  systemsetup ssh
+  114  5/20/2025 23:38  sudo systemsetup ssh
+  115  5/20/2025 23:40  ssh ljv@10.0.2.15
+  116  5/22/2025 13:40  neofetch
+  117  5/22/2025 13:40  brew install neofetch
+  118  5/22/2025 13:40  neofetch
+  119  5/22/2025 13:42  ls
+  120  5/22/2025 13:43  bash
+  121  5/22/2025 14:06  pwd
+  122  5/22/2025 14:06  cd Desktop
+  123  5/22/2025 14:06  ls
+  124  5/22/2025 14:07  clear
+  125  5/22/2025 14:08  nano ~/.zshrc
+  126  5/22/2025 14:10  sudo nano ~/.zshrc
+  127  5/22/2025 14:15  exit
+  128  5/23/2025 09:07  brew install nmap
+  129  5/23/2025 09:08  nmap
+  130  5/23/2025 09:08  nmap -p- 10.0.0.206
+  131  5/23/2025 09:08  nmap -Pn 10.0.0.206
+  132  5/23/2025 09:14  nmap -P 0-65535 10.0.0.206
+  133  5/23/2025 09:14  netstat -a 
+  134  5/23/2025 09:22  ipconfig /all
+  135  5/23/2025 09:25  nmap -p 8006 --open 10.0.0.1/24
+  136  5/23/2025 09:28  nmap -sn 10.0.0.1/24
+  137  5/23/2025 09:32  nmap -p 135,139,445,3389 -sV 10.0.0.1 10.0.0.68 10.0.0.197 10.0.0.243 10.0.0.254
+  138  5/23/2025 09:36  mstsc /v:10.0.0.197\n
+  139  5/23/2025 09:38  clear
+  140  5/23/2025 09:41  curl https://api.ipify.org
+  141  5/23/2025 09:43  curl api.ipify.org
+  142  5/23/2025 09:46  whois 69.26.154.148
+  143  5/24/2025 10:38  hostname
+  144  5/24/2025 10:44  users
+  145  5/24/2025 10:44  sudo moon passwd
+  146  5/24/2025 10:44  sudo passwd moon
+  147  5/24/2025 10:45  clear
+  148  5/24/2025 10:47  exit
+  149  5/24/2025 10:47  pwd
+  150  5/24/2025 10:48  path 
+  151  5/24/2025 10:48  which moon
+  152  5/24/2025 10:48  clear
+  153  5/24/2025 10:48  ls
+  154  5/24/2025 10:48  ls Desktop
+  155  5/24/2025 10:49  . sysuptd.sh
+  156  5/24/2025 10:49  . ~/Desktop/sysuptd.sh 
+  157  5/24/2025 10:50  nano  ~/Desktop/sysuptd.sh 
+  158  5/24/2025 10:52  . ~/Desktop/sysuptd.sh 
+  159  5/24/2025 10:52  nano  ~/Desktop/sysuptd.sh 
+  160  5/24/2025 10:52  . ~/Desktop/sysuptd.sh 
+  161  5/24/2025 10:52  nano  ~/Desktop/sysuptd.sh 
+  162  5/24/2025 10:53  . ~/Desktop/sysuptd.sh 
+  163  5/24/2025 10:53  clear
+  164  5/24/2025 10:54  pwd
+  165  5/24/2025 10:54  ls
+  166  5/24/2025 10:54  cat sysuptsh
+  167  5/24/2025 10:54  rm sysuptsh
+  168  5/24/2025 10:54  ls
+  169  5/24/2025 10:54  clear
+  170  5/24/2025 21:39  ls
+  171  5/24/2025 21:41  mkdir ~/Desktop/Vagranttest && vagrant init Desktop/Vagranttest 
+  172  5/24/2025 21:41  ls Desktop/
+  173  5/24/2025 21:41  ls Desktop/Vagranttest/
+  174  5/24/2025 21:42  vagrant init hashicorp/precise64
+  175  5/24/2025 21:42  which brew
+  176  5/24/2025 21:42  brew install vagrant
+  177  5/24/2025 21:43  vagrant --
+  178  5/24/2025 21:43  vagrant --version
+  179  5/24/2025 21:44  cd  Desktop/Vagranttest/ && vagrant init
+  180  5/24/2025 21:44  ls
+  181  5/24/2025 21:44  nano
+  182  5/24/2025 21:44  nano Vagrantfile 
+  183  5/24/2025 21:48  nano Vagrantfile
+  184  5/24/2025 21:55  which virtualbox
+  185  5/24/2025 21:56  vagrant up
+  186  5/24/2025 22:01  VBoxManage list runningvms
+  187  5/24/2025 22:01  vagrant destroy -f && vagrant up
+  188  5/24/2025 22:01  brew services restart virtualbox && VBoxManage --version
+  189  5/24/2025 22:01  brew install --cask virtualbox
+  190  5/24/2025 22:03  sudo pkill -f VBox && sudo pkill -f virtualbox
+  191  5/24/2025 22:03  sudo /Library/Application\ Support/VirtualBox/uninstall.tool
+  192  5/24/2025 22:03  sudo rm -rf /Applications/VirtualBox.app && sudo rm -rf "/Library/Application Support/VirtualBox" && sudo rm -rf /Library/Extensions/VBoxDrv.kext && sudo rm -rf /Library/Extensions/VBoxUSB.kext && sudo rm -rf /Library/Extensions/VBoxNetFlt.kext && sudo rm -rf /Library/Extensions/VBoxNetAdp.kext
+  193  5/24/2025 22:03  brew install --cask virtualbox
+  194  5/24/2025 22:04  uname -m
+  195  5/24/2025 22:05  rm Vagrantfile && which docker
+  196  5/24/2025 22:05  brew install --cask docker
+  197  5/24/2025 22:09  ls
+  198  5/24/2025 22:09  vagrant init
+  199  5/24/2025 22:10  vagrant plugin install vagrant-docker-compose
+  200  5/24/2025 22:10  docker ps
+  201  5/24/2025 22:11  systemctl docker
+  202  5/24/2025 22:12  docker ps
+  203  5/24/2025 22:12  open -a Docker
+  204  5/24/2025 22:12  docker info
+  205  5/24/2025 22:13  docker ps
+  206  5/24/2025 22:13  vagrant up
+  207  5/24/2025 22:13  vagrant up --provider=docker
+  208  5/24/2025 22:14  vagrant destroy -f && vagrant up --provider=docker
+  209  5/24/2025 22:14  rm -rf .vagrant && VAGRANT_DEFAULT_PROVIDER=docker vagrant up
+  210  5/24/2025 22:15  vagrant up --provider=docker
+  211  5/24/2025 22:18  vagrant ssh
+  212  5/24/2025 22:34  vagrant status
+  213  5/24/2025 22:35  vagrant halt
+  214  5/24/2025 22:35  vagrant status
+  215  5/24/2025 22:35  ls
+  216  5/24/2025 22:35  cat Dockerfile 
+  217  5/24/2025 22:37  cat Vagrantfile 
+  218  5/24/2025 22:38  ls
+  219  5/24/2025 22:38  cat Dockerfile 
+  220  5/24/2025 22:39  nano Dockerfile 
+  221  5/24/2025 22:59  vagrant status
+  222  5/24/2025 22:59  docker ps
+  223  5/24/2025 22:59  vagrant up
+  224  5/24/2025 23:08  sudo reboot now
+  225  5/24/2025 23:13  vagrant up
+  226  5/24/2025 23:13  docker info
+  227  5/24/2025 23:13  open -a Docker
+  228  5/24/2025 23:14  docker info
+  229  5/24/2025 23:14  vagrant up
+  230  5/25/2025 09:22  vagrant status
+  231  5/25/2025 09:22  vagrant ssh
+  232  5/25/2025 09:28  cat Desktop
+  233  5/25/2025 09:28  ls Desktop
+  234  5/25/2025 09:29  ls Desktop/Vagranttest
+  235  5/25/2025 09:33  ping 172.17.0.2
+  236  5/25/2025 14:16  ls
+  237  5/25/2025 14:16  pwd
+  238  5/25/2025 14:17  cat /etc/pam.d
+  239  5/25/2025 14:17  cat /etc/pam.d/login
+  240  5/25/2025 14:23  vagrant status
+  241  5/25/2025 14:24  docker ps
+  242  5/25/2025 23:23  vagrant status
+  243  5/25/2025 23:23  vagrant ssh
+  244  5/25/2025 23:41  rsync -avz Desktop/Vagranttest/Dockerfile r 
+  245  5/25/2025 23:41  reboot
+  246  5/25/2025 23:41  sudo reboot
+  247  5/26/2025 02:12  brew update && brew upgrade & brew install github & brew install git 
+  248  5/26/2025 02:13  git --version
+  249  5/26/2025 02:13  github --version
+  250  5/26/2025 02:17  git init
+  251  5/26/2025 02:18  git status
+  252  5/26/2025 02:18  pwd
+  253  5/26/2025 02:18  ls
+  254  5/26/2025 02:18  cat README.md
+  255  5/26/2025 02:19  git add README.md
+  256  5/26/2025 02:21  git log
+  257  5/26/2025 02:21  git status
+  258  5/26/2025 02:22  exit
+  259  5/26/2025 02:23  q
+  260  5/26/2025 02:25  clear
+  261  5/26/2025 02:25  status
+  262  5/26/2025 02:25  git status
+  263  5/26/2025 02:26  cd Desktop
+  264  5/26/2025 02:26  ls
+  265  5/26/2025 02:26  python --version
+  266  5/26/2025 02:26  python3 --versio
+  267  5/26/2025 02:26  python3 --version
+  268  5/26/2025 02:27  clear
+  269  5/26/2025 02:32  /usr/bin/python3 "/Users/moon/Desktop/Building Python Projects/new.py"
+  270  5/27/2025 21:25  reboot now
+  271  5/27/2025 21:25  sudo reboot now
+  272  5/28/2025 11:29  brew update && brew upgrade & brew install spotify
+  273  5/28/2025 11:30  spotify
+  274  5/28/2025 11:30  open /Applications/Spotify.app
+  275  5/28/2025 20:52  brew install microsoft-edge
+  276  5/28/2025 20:56  /usr/bin/python3 /Users/moon/.vscode/extensions/ms-python.python-2025.6.1-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/moon/.vscode/extensions/ms-python.python-2025.6.1-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  277  5/28/2025 20:57  "/Users/moon/Desktop/Building Python Projects/.venv/bin/python" "/Users/moon/Desktop/Building Python Projects/new.py"
+  278  5/28/2025 20:57  git status
+  279  5/28/2025 20:57  clear
+  280  5/28/2025 20:57  pwd
+  281  5/28/2025 20:58  clear
+  282  5/28/2025 22:20  sudo brew update & sudo brew upgrade 
+  283  5/28/2025 22:21  git status
+  284  5/28/2025 22:25  pwd
+  285  5/28/2025 22:25  git init
+  286  5/28/2025 22:26  git status
+  287  5/28/2025 22:27  git add .DS_Store
+  288  5/28/2025 22:27  git status
+  289  5/28/2025 22:27  git add appupload.py 
+  290  5/28/2025 22:27  git status
+  291  5/28/2025 22:29  git diff appupload.py
+  292  5/28/2025 22:31  git rm .DS_Store
+  293  5/28/2025 22:31  git rm -f .DS_Store
+  294  5/28/2025 22:31  git status
+  295  5/28/2025 22:32  git rm -f appupload.py
+  296  5/28/2025 22:32  git status
+  297  5/28/2025 22:32  cd ..
+  298  5/28/2025 22:33  ls
+  299  5/28/2025 22:33  git status
+  300  5/28/2025 22:41  ls
+  301  5/28/2025 22:41  cat index.html
+  302  5/28/2025 22:42  git diff index.html
+  303  5/28/2025 22:42  git status
+  304  5/28/2025 22:43  git diff Desktop/index.html
+  305  5/28/2025 22:43  git status  Desktop/index.html
+  306  5/28/2025 22:44  git add  Desktop/index.html
+  307  5/28/2025 22:44  ls
+  308  5/28/2025 22:44  git status  Desktop/index.html
+  309  5/28/2025 22:45  git diff --git  Desktop/index.html
+  310  5/29/2025 00:59  pwd
+  311  5/29/2025 01:00  clear 
+  312  5/29/2025 01:01  mkdir Gitlearning && touch index.html app.css
+  313  5/29/2025 01:01  ls Desktop
+  314  5/29/2025 01:01  ls
+  315  5/29/2025 01:02  cp app.css index.html Gitlearning
+  316  5/29/2025 01:02  ls
+  317  5/29/2025 01:02  ls Gitlearning
+  318  5/29/2025 01:02  rm app.css index.html
+  319  5/29/2025 01:02  ls
+  320  5/29/2025 01:02  clear
+  321  5/29/2025 01:02  cd Gitlearning
+  322  5/29/2025 01:02  ls
+  323  5/29/2025 01:03  git
+  324  5/29/2025 01:03  git init
+  325  5/29/2025 01:03  ls
+  326  5/29/2025 01:05  git add .
+  327  5/29/2025 01:07  git log
+  328  5/29/2025 01:07  git commit -m " adding html and css" 
+  329  5/29/2025 01:07  git status
+  330  5/29/2025 01:08  git log
+  331  5/29/2025 01:08  rm index.html
+  332  5/29/2025 01:08  ls
+  333  5/29/2025 01:08  touch app.js
+  334  5/29/2025 01:08  ls
+  335  5/29/2025 01:09  git add . 
+  336  5/29/2025 01:09  git commit " adding app.css and app.js"
+  337  5/29/2025 01:09  git commit -m 'adding app.css and app.js'
+  338  5/29/2025 01:09  git status
+  339  5/29/2025 01:10  git log
+  340  5/29/2025 01:12  git checkout 09065533be3a2eac11ad3b37e19c39e5c7d15988
+  341  5/29/2025 01:12  ls
+  342  5/29/2025 01:13  git branch
+  343  5/29/2025 01:29  ls
+  344  5/29/2025 01:38  git remote add orgin https://github.com/oamos1/GitVideo/
+  345  5/29/2025 01:39  git remote add origin https://github.com/oamos1/GitVideo/
+  346  5/29/2025 01:39  git push -u origin main 
+  347  5/29/2025 01:41  git remote add origin https://github.com/oamos1/GitVideo
+  348  5/29/2025 01:41  git push -u origin main 
+  349  5/29/2025 01:43  git remote -v
+  350  5/29/2025 01:43  git remove origin
+  351  5/29/2025 01:44  git remove -v origin
+  352  5/29/2025 01:44  git remote remove origin
+  353  5/29/2025 01:44  ls
+  354  5/29/2025 01:44  git remote -v
+  355  5/29/2025 01:45  git remote remove origin
+  356  5/29/2025 01:45  git remote -v
+  357  5/29/2025 01:46  git remote remove orgin\n
+  358  5/29/2025 01:46  git remote -v
+  359  5/29/2025 01:47  git remote add origin https://github.com/oamos1/GitVideo\n
+  360  5/29/2025 01:47  git remote -v
+  361  5/29/2025 01:47  git branch
+  362  5/29/2025 01:47  git push -u origin master\n
+  363  5/29/2025 02:05  git branch
+  364  5/29/2025 02:08  git log
+  365  5/29/2025 02:25  git checkout -b new-branch 
+  366  5/29/2025 02:26  git branch
+  367  5/29/2025 02:27  ls
+  368  5/29/2025 02:28  touch app.py
+  369  5/29/2025 02:28  ls
+  370  5/29/2025 02:28  git add . 
+  371  5/29/2025 02:28  git commit -m "adding python file"
+  372  5/29/2025 02:28  git log
+  373  5/29/2025 02:30  git push origin new-branch 
+  374  5/29/2025 02:34  ls
+  375  5/29/2025 02:35  echo " print("Hello World") > app.py
+  376  5/29/2025 02:35  echo "print("Hello World")" > app.py
+  377  5/29/2025 02:35  cat app.py
+  378  5/29/2025 02:35  git refresh
+  379  5/29/2025 02:36  git add . 
+  380  5/29/2025 02:36  git commit -m "adding a line of code to app.py file"
+  381  5/29/2025 02:37  git push origin new-branch 
+  382  5/29/2025 02:39  git merge origin master
+  383  5/29/2025 02:39  git merge master
+  384  5/29/2025 02:39  log
+  385  5/29/2025 02:40  git log
+  386  5/29/2025 02:45  git merge master
+  387  5/29/2025 02:46  git add . && git commit
+  388  5/29/2025 02:49  git checkout master
+  389  5/29/2025 02:50  git merge feature
+  390  5/29/2025 02:50  git push origin master
+  391  5/29/2025 02:50  git switch new-branch
+  392  5/29/2025 02:51  git merge feature
+  393  5/29/2025 02:51  git log
+  394  5/29/2025 02:54  git checkout new-branch
+  395  5/29/2025 02:55  git status 
+  396  5/29/2025 02:56  git add app.py
+  397  5/29/2025 02:56  git commit -m "making sure the app is added"
+  398  5/29/2025 02:56  git checkout master
+  399  5/29/2025 02:57  git merge new-branch
+  400  5/29/2025 02:57  git push origin master 
+  401  5/29/2025 02:58  git status
+  402  5/29/2025 03:10  clear
+  403  5/29/2025 03:14  ls
+  404  5/29/2025 03:15  pwd
+  405  5/29/2025 03:15  cd ..
+  406  5/29/2025 03:15  ls
+  407  5/29/2025 03:15  mkdir VagrantBox
+  408  5/29/2025 03:15  cd VagrantBox
+  409  5/29/2025 03:15  ls
+  410  5/29/2025 03:15  vagrant init 
+  411  5/29/2025 03:15  ls
+  412  5/29/2025 03:16  nano Vagrantfile
+  413  5/29/2025 03:18  cat Vagrantfile
+  414  5/29/2025 03:19  vagrant up
+  415  5/29/2025 03:20  ls
+  416  5/29/2025 03:20  rm Vagrantfile
+  417  5/29/2025 03:20  ls
+  418  5/29/2025 03:20  vagrant init
+  419  5/29/2025 03:21  nano Vagrantfile
+  420  5/29/2025 03:28  cat Vagrantfile
+  421  5/29/2025 03:28  vagrant up
+  422  5/29/2025 03:29  cat Vagrantfile
+  423  5/29/2025 03:30  nano Vagrantfile
+  424  5/29/2025 03:32  vagrant up
+  425  5/29/2025 03:32  nano Vagrantfile
+  426  5/29/2025 03:33  vagrant up
+  427  5/29/2025 03:33  vim Vagrantfile
+  428  5/29/2025 03:35  vagrant up
+  429  5/29/2025 03:36  nano Vagrantfile
+  430  5/29/2025 03:37  vagrant up
+  431  5/29/2025 03:38  vagrant up --provider=virtualbox\n
+  432  5/29/2025 03:46  brew install --cask qemu
+  433  5/29/2025 03:47  brew install qemu
+  434  5/29/2025 03:48  qemu-system-x86_64
+  435  5/29/2025 03:50  brew install qemu\n
+  436  5/29/2025 03:50  brew reinstall qemu
+  437  5/29/2025 03:51  nano Vagrantfile
+  438  5/29/2025 03:52  vagrant up --provider=qemu\n
+  439  5/29/2025 03:52  vagrant up \n
+  440  5/29/2025 03:54  nano Vagrantfile
+  441  5/29/2025 03:55  vagrant up \n
+  442  5/29/2025 03:55  vagrant up --provider=docker\n
+  443  5/29/2025 03:56  docker info
+  444  5/29/2025 03:57  vagrant up --provider=docker\n
+  445  5/29/2025 04:00  nano Vagrantfile
+  446  5/29/2025 04:01  vagrant up --provider=docker\n
+  447  5/29/2025 04:01  nano Vagrantfile
+  448  5/29/2025 04:01  vagrant up --provider=docker\n
+  449  5/29/2025 04:02  vagrant ssh
+  450  5/29/2025 07:20  vagrant up
+  451  5/29/2025 07:21  vagrant ssh
+  452  5/29/2025 07:23  ifconfig
+  453  5/29/2025 07:31  vagrant up 
+  454  5/29/2025 07:31  ls
+  455  5/29/2025 07:32  cd VagrantBox
+  456  5/29/2025 07:32  ls
+  457  5/29/2025 07:32  cat Vagrantfile
+  458  5/29/2025 07:32  clear
+  459  5/29/2025 07:32  pwd
+  460  5/29/2025 07:32  cd ..
+  461  5/29/2025 07:33  mkdir vagrant2
+  462  5/29/2025 07:33  cd vagrant2
+  463  5/29/2025 07:33  ls
+  464  5/29/2025 07:33  vagrant init
+  465  5/29/2025 07:33  ls
+  466  5/29/2025 07:34  nano Vagrantfile
+  467  5/29/2025 07:41  vagrant up
+  468  5/29/2025 07:42  nano Vagrantfile
+  469  5/29/2025 07:42  vagrant up
+  470  5/29/2025 07:43  cat /var/lib/dpkg/lock-frontend
+  471  5/29/2025 07:44  vagrant ssh
+  472  5/29/2025 07:47  ls
+  473  5/29/2025 07:47  cd VagrantBox/
+  474  5/29/2025 07:47  ls
+  475  5/29/2025 07:47  vagrant up
+  476  5/29/2025 07:48  cd Vagrant
+  477  5/29/2025 07:48  ls
+  478  5/29/2025 07:49  cd VagrantBox
+  479  5/29/2025 07:49  ls
+  480  5/29/2025 07:49  cat Vagrantfile
+  481  5/29/2025 07:49  vagrant up
+  482  5/29/2025 07:52  nano Vagrantfile
+  483  5/29/2025 07:54  vagrant up
+  484  5/29/2025 07:55  nano Vagrantfile
+  485  5/29/2025 07:55  vagrant reload
+  486  5/29/2025 07:57  nano Vagrantfile
+  487  5/29/2025 07:57  ls
+  488  5/29/2025 07:57  vagrant up
+  489  5/29/2025 07:58  vagrant ssh 
+  490* 5/29/2025 08:19  cd ..
+  491* 5/29/2025 08:19  ssh vagrant@127.0.0.1 -p 2230
+  492* 5/29/2025 08:21  clear
+  493* 5/29/2025 08:21  ls
+  494* 5/29/2025 08:21  ssh vagrant@127.0.0.1 -p 2222
+  495  5/29/2025 08:58  cd ..
+  496  5/29/2025 08:58  cd Desktop
+  497  5/29/2025 08:58  ls
+  498  5/29/2025 08:59  cd ..
+  499  5/29/2025 08:59  ls
+  500  5/29/2025 08:59  cd Gitlearning
+  501  5/29/2025 08:59  ls
+  502  5/29/2025 08:59  cd ..
+  503  5/29/2025 08:59  ls
+  504  5/29/2025 08:59  cd Desktop
+  505  5/29/2025 08:59  ls
+  506  5/29/2025 09:01  clear
+  507  5/29/2025 09:05  ls
+  508  5/29/2025 09:05  cd ..
+  509  5/29/2025 09:05  ls
+  510  5/29/2025 09:05  cd Gitlearning
+  511  5/29/2025 09:05  ls
+  512  5/29/2025 09:05  git pull origin master
+  513  5/29/2025 09:06  ls
+  514  5/29/2025 09:13  cd ..
+  515  5/29/2025 09:13  ls
+  516  5/29/2025 09:13  cd Desktop
+  517  5/29/2025 09:15  ls
+  518  5/29/2025 09:16  ls Git
+  519  5/29/2025 09:16  cd Git
+  520  5/29/2025 09:18  git config —global user.name “Omolaja A”\n
+  521  5/29/2025 09:18  git config -- global user.name "omolaja Amos"
+  522  5/29/2025 09:20  git config --global user.name "omolaja Amos"
+  523  5/29/2025 09:23  git help config
+  524  5/29/2025 09:23  clear
+  525  5/29/2025 09:24  git init 
+  526  5/29/2025 09:26  git confif --global init.default branch main
+  527  5/29/2025 09:26  git config --global init.default branch main
+  528  5/29/2025 09:26  git init 
+  529  5/29/2025 09:26  ls -al
+  530  5/29/2025 09:27  git status
+  531  5/29/2025 09:28  git add index.htm
+  532  5/29/2025 09:28  git status
+  533  5/29/2025 09:29  git rm --cached index.htm
+  534  5/29/2025 09:29  git status
+  535  5/29/2025 09:30  ls -al
+  536  5/29/2025 09:30  touch .gitignore
+  537  5/29/2025 09:30  ls -al
+  538  5/29/2025 09:30  cat .git
+  539  5/29/2025 09:31  cat .gitignore
+  540  5/29/2025 09:32  nano .gitignore
+  541  5/29/2025 09:34  git status
+  542  5/29/2025 09:35  nano .gitignore
+  543  5/29/2025 09:35  git status
+  544  5/29/2025 09:37  git add . 
+  545  5/29/2025 10:06  git commit -m "added new commit files" 
+  546  5/29/2025 10:07  git status
+  547  5/29/2025 10:07  git log
+  548  5/29/2025 10:10  ls
+  549  5/29/2025 10:11  ls - al
+  550  5/29/2025 10:11  ls 
+  551  5/29/2025 10:11  git status
+  552  5/29/2025 10:11  nano index.htm
+  553  5/29/2025 10:12  git status
+  554  5/29/2025 10:13  git diff
+  555  5/29/2025 10:14  git add index.htm
+  556  5/29/2025 10:14  git status
+  557  5/29/2025 10:21  ls
+  558  5/29/2025 10:22  git status
+  559  5/29/2025 10:22  git restore --stage index.htm
+  560  5/29/2025 10:22  git status
+  561  5/29/2025 10:23  git commit -a -m " adding the file with updated text"
+  562  5/29/2025 10:23  git status
+  563  5/29/2025 10:23  ls
+  564  5/29/2025 10:23  git rm "secret recipe.htm"
+  565  5/29/2025 10:23  ls
+  566  5/29/2025 10:24  git restore "secret recipe.htm"
+  567  5/29/2025 10:25  git log
+  568  5/29/2025 10:26  git restore "secret recipe.htm"
+  569  5/29/2025 10:27  git status
+  570  5/29/2025 10:28  git restore --staged secret recipe.htm
+  571  5/29/2025 10:28  git restore --staged "secret recipe.htm"
+  572  5/29/2025 10:28  git status
+  573  5/29/2025 10:29  git restore --staged "secret recipe.htm"
+  574  5/29/2025 10:29  git restore  "secret recipe.htm"
+  575  5/29/2025 10:29  git status
+  576  5/29/2025 10:29  ls
+  577  5/29/2025 10:31  git mv "KCC Logo.png" "Primary Logo.png"
+  578  5/29/2025 10:31  git status
+  579  5/29/2025 10:32  ls
+  580  5/29/2025 10:32  git commit -m " File name of the logo "
+  581  5/29/2025 10:32  git log
+  582  5/29/2025 10:36  git commit "Official Primary Logo.png" --amend 
+  583  5/29/2025 10:37  git commit -m "Official Primary Logo.png" --amend 
+  584  5/29/2025 10:37  git status
+  585  5/29/2025 10:37  git log
+  586  5/29/2025 10:43  git log --oneline
+  587  5/29/2025 10:44  git log -p
+  588  5/29/2025 10:52  git branch
+  589  5/29/2025 10:52  git branch FixTemp
+  590  5/29/2025 10:52  nano secret\ recipe.htm
+  591  5/29/2025 10:53  git switch FixTemp 
+  592  5/29/2025 10:53  git branch
+  593  5/29/2025 10:53  nano secret\ recipe.htm
+  594  5/29/2025 10:54  git status
+  595  5/29/2025 10:54  git commit -a -m " updated temp for baking instruction"
+  596  5/29/2025 10:54  git switch master
+  597  5/29/2025 10:55  nano secret\ recipe.htm
+  598  5/29/2025 10:57  git merge -m "merge fixtem to master" FixTemp 
+  599  5/29/2025 10:57  nano secret\ recipe.htm
+  600  5/29/2025 10:59  git branch -d FixTemp
+  601  5/29/2025 10:59  git branch
+  602  5/29/2025 11:02  git switch -c updatetext
+  603  5/29/2025 11:02  git branch
+  604  5/29/2025 11:03  nano index.htm
+  605  5/29/2025 11:04  git commit -a -m "update index txt"
+  606  5/29/2025 11:05  git status
+  607  5/29/2025 11:05  git switch master
+  608  5/29/2025 11:06  nano index.htm
+  609  5/29/2025 11:06  git commit -a -m "update index txt"
+  610  5/29/2025 11:07  git merge updatetext 
+  611  5/29/2025 11:08  nano index.htm
+  612  5/29/2025 11:10  git commit -a -m "update index txt"
+  613  5/29/2025 11:15  git remote add origin https://github.com/oamos1/Omolajacookies.com-.git
+  614  5/29/2025 11:15  git branch -M main
+  615  5/29/2025 11:15  git push -u origin main
+  616  5/29/2025 11:16  git push .
+  617  5/29/2025 11:17  git push --all
+  618  5/29/2025 11:33  git fetch
+  619  5/29/2025 11:33  git merge
+  620  5/29/2025 11:33  git pull
+  621  5/29/2025 11:33  git status
+  622  5/29/2025 11:33  git log
+  623  5/29/2025 11:34  git log -p
+  624  5/29/2025 11:34  git log -m
+  625  5/29/2025 11:34  git log -a
+  626  5/29/2025 11:34  git log --oneline
